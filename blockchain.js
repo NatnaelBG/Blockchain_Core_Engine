@@ -1,5 +1,5 @@
 /* The Blockchain class is a JavaScript implementation of a blockchain Engine that includes
-methods for adding blocks and generating hashes using the sha256 hashing algorithm. */
+methods for adding blocks and generating hashes using the sha256 hashing algorithm.  */
 const sha256 = require("js-sha256");
 const Block = require("./block");
 
